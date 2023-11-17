@@ -1,0 +1,111 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  display: grid;
+}
+
+.frame .student {
+  border-radius: 20px;
+}
+
+h1 {
+  position: absolute;
+}
+
+h2 {
+  position: absolute;
+  top: 145px;
+  left: 600px;
+  color: white;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.rectangles {
+  position: absolute;
+  padding: 0px;
+  margin: 0px;
+  height: 835px;
+  width: 1522px;
+}
+
+.rectangles .rect1 {
+  position: absolute;
+  height: 360px;
+  width: 1530px;
+}
+
+.rectangles .rect2 {
+  position: absolute;
+  height: 300px;
+  width: 1530px;
+}
+
+.frame .link1 {
+  position: absolute;
+  height: 500px;
+  width: 500px;
+  top: 226px;
+  left: 660px;
+}
+
+.frame .link2 a {
+  text-decoration: none;
+  font-size: large;
+  color: red;
+}
+
+.frame .link2 a:hover {
+  color: brown;
+}
+
+.frame .link2 {
+  position: absolute;
+  display: block;
+  height: 300px;
+  width: 700px;
+  top: 540px;
+  left: 500px;
+}
+
+.frame img {
+  height: 230px;
+  width: 230px;
+}
+
+.links .student {
+  position: absolute;
+  height: 200px;
+  top: 400px;
+  left: 395px;
+
+}
+
+.rectangle-footer {
+  position: absolute;
+  width: 1530px;
+  height: 39px;
+  top: 800px;
+  left: 0;
+  background-color: #d9d9d9;
+}
+
+.rectangles .email {
+  padding-left: 670px;
+  height: 30px;
+
+  text-align: center;
+  top: 10px;
+  position: absolute;
+}
+
+h1 {
+  left: 350px;
+  color: white;
+  top: -20px;
+  font-size: 60px;
+  font-family: 'Changa', sans-serif;
+}
+
+.frame .link2 .teacher {
+  padding-left: 100px;
+}
